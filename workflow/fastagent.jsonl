@@ -1,0 +1,6 @@
+{"level":"ERROR","timestamp":"2025-10-23T19:07:40.719966","namespace":"fast_agent.mcp.mcp_connection_manager","message":"curl: Lifecycle task encountered an error: [Errno 2] No such file or directory: 'docker'","data":{"exc_info":true,"data":{"progress_action":"Error","server_name":"curl"}}}
+[fast_agent.mcp.mcp_connection_manager] curl: Lifecycle task encountered an error: [Errno 2] No such file or directory: 'docker'
+{"level":"ERROR","timestamp":"2025-10-23T19:11:02.415419","namespace":"fast_agent.mcp.mcp_agent_client_session","message":"send_request failed: Connection closed"}
+[fast_agent.mcp.mcp_agent_client_session] send_request failed: Connection closed
+{"level":"ERROR","timestamp":"2025-10-23T19:11:02.415755","namespace":"fast_agent.mcp.mcp_connection_manager","message":"curl: Lifecycle task encountered an error: unhandled errors in a TaskGroup (1 sub-exception)","data":{"exc_info":true,"data":{"progress_action":"Error","server_name":"curl"}}}
+[fast_agent.mcp.mcp_connection_manager] curl: Lifecycle task encountered an error: unhandled errors in a TaskGroup (1 sub-exception)
